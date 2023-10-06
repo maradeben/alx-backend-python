@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ safely get values """
 from typing import Any, Mapping, Union, TypeVar
 
